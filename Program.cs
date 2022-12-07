@@ -10,8 +10,6 @@
 
 
 
-
-
 //(ESTRUTURA DE REPETIÇÃO: WHILE)
 
 // int numero = 5;

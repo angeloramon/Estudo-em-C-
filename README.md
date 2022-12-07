@@ -1,3 +1,2 @@
 # Estudo em C# 
 
-qualquer
